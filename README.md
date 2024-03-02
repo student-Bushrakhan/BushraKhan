@@ -1,3 +1,4 @@
+![logo](https://github.com/student-Bushrakhan/student-Bushrakhan/blob/main/GitHub%20Banner.gif)
 # 💫 About Me:
 👋 Hi, I’m Bushra Khan<br>👀 I’m interested in Python and Web Development<br>🌱 I’m currently learning Full Stack Development<br>💞️ I’m looking to collaborate on Python  Projects<br>📫 How to reach me Bushrakhanum667@gmail.com
 
