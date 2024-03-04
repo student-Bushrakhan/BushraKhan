@@ -19,7 +19,7 @@
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=student-Bushrakhan&label=Profile%20Views&color=11&pretty=true" />
 </a>
-<img src="C:\Users\Administrator\Documents\Bushra Khan\Assignments Programmer.jpg">
+
 
 
 
